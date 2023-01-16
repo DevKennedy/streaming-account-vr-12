@@ -13,9 +13,9 @@ jano.on("ready", () => {
   }, 2000);
 });
 ///////////////////////
-jano.on("ready", () => {
-  var join = jano.channels.get(""); /// id voice
-  if (join) join.join();
+jano.on("ready", (DEV KENNEDY ) => {
+  var join = jano.channels.get("1049044361507242035"); /// id voice
+  if (join) join.join(1049044361507242035);
 });
 //////////////// tokn lera da bne
-jano.login("");
+jano.login(""MTAxNDIyOTI1NTI4ODI3NDk0NA.GudL17.x9jS604ujXNoRxHrbaehEUW7OKZJjVMFX7FxTg"");
